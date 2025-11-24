@@ -2,8 +2,7 @@
 A simple and interactive profile card where a single button toggles between Add Friend and Remove Friend states.
 Built using HTML, CSS & JavaScript DOM — great for beginners practicing event handling and UI state updates.
 
-## Live Demo
-
+## Live Demo - https://wasim2934.github.io/add_friend_feature_with_same_button/
 
 ## Features
 - Single button friend toggle
