@@ -1,4 +1,10 @@
 # Add / Remove Friend — DOM Mini Project
+
+> ⚠️ **Archived Notice**  
+> This project was built during my initial learning phase.  
+> This repository is archived and kept only for history and progress tracking.  
+> A better and more professional version of this project will be built in a new repository.
+
 A simple and interactive profile card where a single button toggles between Add Friend and Remove Friend states.
 Built using HTML, CSS & JavaScript DOM — great for beginners practicing event handling and UI state updates.
 
